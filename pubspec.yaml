@@ -29,9 +29,6 @@ dependencies:
   # Loader
   flutter_spinkit: ^5.2.0
 
-  # Svg Image
-  flutter_svg: ^2.0.9
-
   # Being able to compare objects in Dart
   equatable: ^2.0.5
 
@@ -49,27 +46,6 @@ dependencies:
 
   # Code generation
   freezed: ^2.4.5
-
-  # Cached network image
-  cached_network_image: ^3.3.0
-
-  # Pull refresh and reload
-  pull_to_refresh: ^2.0.0
-
-  # Shimmer when loading data from data source
-  shimmer: ^3.0.0
-
-  # Web view
-  webview_flutter: ^4.4.2
-
-  # Photo view to view image and control it
-  photo_view: ^0.14.0
-
-  # Mock classes
-  mockito: ^5.4.2
-
-  # Generate CSV file and get coverage report
-  test_cov_console: ^0.2.2
 
   google_fonts: 6.1.0
 
