@@ -1,6 +1,4 @@
-# take_home_challenge_innoscripta
-
-Innoscripta Take Home Challenge
+# kanban-board
 
 This project is built using Flutter with below modules.
 - BloC: State Management
